@@ -1,0 +1,152 @@
+body {
+
+    margin: 0;
+
+    font-family: 'Georgia', serif;
+
+    background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+
+    color: #5a1a2b;
+
+}
+
+nav {
+
+    text-align: center;
+
+    padding: 20px;
+
+}
+
+nav a {
+
+    text-decoration: none;
+
+    margin: 0 15px;
+
+    font-size: 1.1rem;
+
+    color: #7a1f3d;
+
+    font-weight: bold;
+
+}
+
+nav a:hover {
+
+    color: #e6396f;
+
+}
+
+header {
+
+    text-align: center;
+
+    padding: 80px 20px;
+
+}
+
+header h1 {
+
+    font-size: 3.8rem;
+
+}
+
+header p {
+
+    font-size: 1.3rem;
+
+    max-width: 700px;
+
+    margin: auto;
+
+}
+
+section {
+
+    background: rgba(255, 255, 255, 0.88);
+
+    margin: 50px auto;
+
+    padding: 50px;
+
+    border-radius: 30px;
+
+    max-width: 900px;
+
+    box-shadow: 0 15px 40px rgba(0,0,0,0.15);
+
+    text-align: center;
+
+}
+
+section h2 {
+
+    font-size: 2.4rem;
+
+    margin-bottom: 25px;
+
+}
+
+section p {
+
+    font-size: 1.2rem;
+
+    line-height: 1.9;
+
+}
+
+footer {
+
+    text-align: center;
+
+    padding: 30px;
+
+    opacity: 0.85;
+
+}
+
+.heart {
+
+    font-size: 2.5rem;
+
+    color: #e6396f;
+
+}
+
+.love-btn {
+
+    margin-top: 30px;
+
+    padding: 15px 35px;
+
+    font-size: 1.2rem;
+
+    border: none;
+
+    border-radius: 30px;
+
+    background: #e6396f;
+
+    color: white;
+
+    cursor: pointer;
+
+}
+
+.hidden-love {
+
+    display: none;
+
+    margin: 40px auto;
+
+    max-width: 700px;
+
+    background: rgba(255,255,255,0.9);
+
+    padding: 40px;
+
+    border-radius: 30px;
+
+}
+ 
